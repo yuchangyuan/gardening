@@ -204,7 +204,7 @@
 [[res/a_i_thru_hole_connector.jpg][file:res/a_i_thru_hole_connector.s.jpg]]
 
 首先在储水箱的一侧靠近上边沿的位置打两个孔（20mm孔径），一个回流，一个出水。两
-个孔的距离不能太近，避免安装隔板接头是互相影响。另外，可以考虑用剪刀在转角的位
+个孔的距离不能太近，避免安装隔板接头时互相影响。另外，可以考虑用剪刀在转角的位
 置开一个缺口，用来走水泵的电源线（没缺口走线的话，水箱盖子不能盖紧）。
 [[res/a_h_tank_hole.jpg][file:res/a_h_tank_hole.s.jpg]]
 
