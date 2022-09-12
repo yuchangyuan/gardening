@@ -87,14 +87,46 @@
 + 密封胶
 + 一小段3分管（约10cm）
 
-需要注意，所有照片中的排水管均为2分管，实际需要使用3分管。由于拍摄时使用的是2
-分管，但后来发现2分管排水不及时，所以换成3分管了。若花盆和水箱落差较大，且盆托
+需要注意，所有照片中的排水管均为2分管，实际需要使用3分管。照片拍摄时使用的是2
+分管，但后来发现2分管排水不及时，最终换成3分管了。若花盆和水箱落差较大，且盆托
 较高（例如高度5cm以上的爱丽丝的加高加厚盆托），可以考虑使用2分管排水。
 
 #+CAPTION: 盆托和PE管
 [[res/a_1_saucer_and_pe_pipe.jpg][file:res/a_1_saucer_and_pe_pipe.s.jpg]]
 
-安装排水管具体步骤如下：
+首先，使用剪刀和螺丝起起在盆托的侧面打孔，孔直径约10mm，孔和盆底尽量相切。可以
+考虑先用螺丝起定位，并打个小孔。
+
+#+caption: 侧面打孔
+[[res/a_2_punch_1.jpg][file:res/a_2_punch_1.s.jpg]]
+
+然后用剪刀把孔扩大到10mm。
+
+#+caption: 扩孔
+[[res/a_3_punch_2.jpg][file:res/a_3_punch_2.s.jpg]]
+
+打好的孔和PE管见下图：
+#+caption: 孔和PE管
+[[res/a_4_punch_3.jpg][file:res/a_4_punch_3.s.jpg]]
+
+将PE管穿过盆托侧面的孔，大约两侧各留一半。在盆托内，靠近PE管口的位置，用细螺丝起扎两个小孔，两个小孔，用来穿扎带，固定PE管。
+#+caption: 打扎带孔
+[[res/a_5_punch_4.jpg][file:res/a_5_punch_4.s.jpg]]
+
+用细扎带固定好PE管。
+#+caption: 绑扎带
+[[res/a_6_fix_pipe_1.jpg][file:res/a_6_fix_pipe_1.s.jpg]]
+
+绑好扎带后，剪去多余的部分。
+#+caption 修剪扎带
+[[res/a_7_fix_pipe_2.jpg][file:res/a_7_fix_pipe_2.s.jpg]]
+
+然后用密封胶填充盆托和PE管的连接处，以及穿扎带的两个孔。
+#+caption: 填胶
+[[res/a_8_seal.jpg][file:res/a_8_seal.s.jpg]]
+
+填完密封胶后，水平放置一段时间（建议24小时以上），等待密封胶固化。
+
 
 * 后期养护
 * 注意事项
