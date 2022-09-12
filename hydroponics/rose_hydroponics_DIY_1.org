@@ -167,15 +167,15 @@
 [[res/a_c_pipe_punch.jpg][file:res/a_c_pipe_punch.s.jpg]]
 
 扎孔需要在同一个方向，下面是扎好孔的照片：
-#+caption 扎完孔
+#+caption: 扎完孔
 [[res/a_d_pipe_punched.jpg][file:res/a_d_pipe_punched.s.jpg]]
 
 根据环形到盆沿的距离，剪一段2分管，将喷头连出来。
-#+caption 喷头组装前
+#+caption: 喷头组装前
 [[res/a_e_pipe_before.jpg][file:res/a_e_pipe_before.s.jpg]]
 
 下面是组装好的喷头：
-#+caption 喷头组装后
+#+caption: 喷头组装后
 [[res/a_f_pipe_after.jpg][file:res/a_f_pipe_after.s.jpg]]
 
 ** 储水箱内部连接
