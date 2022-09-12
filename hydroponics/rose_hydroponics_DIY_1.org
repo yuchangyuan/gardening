@@ -196,7 +196,7 @@
 + 剪刀
 
 下面是储水箱照片（已打孔），可以用整理箱或其他类似的不漏水的容器。
-+caption: 储水箱
+#+caption: 储水箱
 [[res/a_g_tank.jpg][file:res/a_g_tank.s.jpg]]
 
 3分隔板接头的照片如下，图中的密封胶圈是选配的，未列在前面的材料清单中。
@@ -208,7 +208,7 @@
 [[res/a_h_tank_hole.jpg][file:res/a_h_tank_hole.s.jpg]]
 
 安装3分隔板接头，然后安装水泵和转接的水管，连接顺序见[[*准备工作][准备工作]]的说明。
-+caption: 内部连接
+#+caption: 内部连接
 [[res/a_j_inner_connection.jpg][file:res/a_j_inner_connection.s.jpg]]
 
 ** 加水测试
@@ -218,7 +218,7 @@
 
 用3分管连接托盘的排水口和储水箱的进水口，托盘一侧需要用3分弯头转接。
 
-+caption: 加水测试
+#+caption: 加水测试
 [[res/a_k_test.jpg][file:res/a_k_test.s.jpg]]
 
 接好后，储水箱加水没过水泵，然后通电。测试一段时间，水应该能顺利从喷头喷出，然后通过托盘回流到储水箱，没有漏水和溢出。
