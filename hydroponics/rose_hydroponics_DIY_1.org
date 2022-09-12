@@ -200,6 +200,7 @@
 [[res/a_g_tank.jpg][file:res/a_g_tank.s.jpg]]
 
 3分隔板接头的照片如下，图中的密封胶圈是选配的，未列在前面的材料清单中。
+#+caption: 3分隔板接头（带密封圈）
 [[res/a_i_thru_hole_connector.jpg][file:res/a_i_thru_hole_connector.s.jpg]]
 
 首先在储水箱的一侧靠近上边沿的位置打两个孔（20mm孔径），一个进水，一个出水。两
