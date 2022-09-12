@@ -118,7 +118,7 @@
 [[res/a_6_fix_pipe_1.jpg][file:res/a_6_fix_pipe_1.s.jpg]]
 
 绑好扎带后，剪去多余的部分。
-#+caption 修剪扎带
+#+caption: 修剪扎带
 [[res/a_7_fix_pipe_2.jpg][file:res/a_7_fix_pipe_2.s.jpg]]
 
 然后用密封胶填充盆托和PE管的连接处，以及穿扎带的两个孔。
