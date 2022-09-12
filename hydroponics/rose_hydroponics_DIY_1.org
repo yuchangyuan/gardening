@@ -92,9 +92,7 @@
 较高（例如高度5cm以上的爱丽丝的加高加厚盆托），可以考虑使用2分管排水。
 
 #+CAPTION: 盆托和PE管
-#+ATTR_ORG: :width 400
-#+ATTR_HTML: width="40%"
-[[./res/a_1_saucer_and_pe_pipe.jpg]]
+[[res/a_1_saucer_and_pe_pipe.jpg][file:res/a_1_saucer_and_pe_pipe.s.jpg]]
 
 安装排水管具体步骤如下：
 
